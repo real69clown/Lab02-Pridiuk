@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Pridiuk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4ee1304f9c550dd8d571aa1bed5a0b604faf084")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75aadd5d0173fe465bfff1d86eef413638801118")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Pridiuk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Pridiuk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

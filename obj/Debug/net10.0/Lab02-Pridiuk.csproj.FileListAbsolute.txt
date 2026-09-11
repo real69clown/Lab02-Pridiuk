@@ -12,3 +12,4 @@ C:\Users\Student_08\Documents\Lab02-Pridiuk\obj\Debug\net10.0\refint\Lab02-Pridi
 C:\Users\Student_08\Documents\Lab02-Pridiuk\obj\Debug\net10.0\Lab02-Pridiuk.pdb
 C:\Users\Student_08\Documents\Lab02-Pridiuk\obj\Debug\net10.0\Lab02-Pridiuk.genruntimeconfig.cache
 C:\Users\Student_08\Documents\Lab02-Pridiuk\obj\Debug\net10.0\ref\Lab02-Pridiuk.dll
+C:\Users\Student_08\Documents\Lab02-Pridiuk\obj\Debug\net10.0\Lab02-Pridiuk.sourcelink.json
